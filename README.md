@@ -1,2 +1,2 @@
-# Bolsa
-Market model with montecarlo
+# labolsa
+Market model using Montecarlo
